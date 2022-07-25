@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saracsayed
 - 👀 I’m interested in data analytics, ArcGIS, R & Python
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on water data processing & environmental machine learning
+- 💞️ I’m looking to collaborate on water data processing & machine learning
 - 📫 How to reach me: saracsayed@gmail.com
 
 <!---
