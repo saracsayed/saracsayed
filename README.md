@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @saracsayed
-- 👀 I’m interested in data analytics, ArcGIS, R & Python
+- 👋 Hi, I’m @saracsayed, a water resource scientist at the Delaware River Basin Commission
+- 👀 I’m interested in climate adaptation & reslience, data analytics, ArcGIS, R and Python
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on water data processing & machine learning
 - 📫 How to reach me: saracsayed@gmail.com
