@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saracsayed, a water resource scientist at the Delaware River Basin Commission
+- 👋 Hi, I’m Sara, a water resource scientist at the Delaware River Basin Commission!
 - 👀 I’m interested in climate adaptation & reslience, data analytics, art and cooking 
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on big water data & machine learning
